@@ -16,11 +16,10 @@ Teste 01 - Criação de conta com sucesso
     Quando preencher os dados pessoais e clicar em salvar
     Entao a conta deve ser criada com sucesso
 
-Teste 02 - Teste de adição, remoção e atualização carrinho de compras da demoblaze
+Teste 02 - Compra com 3 produtos no carrinho
     [Documentation]     Esse teste realiza o CRUD do carrinho de compras da demoblaze
-    Compra com 3 produtos no carrinho
-    # Adição no carrinho de um celular, um monitor e um computador.
-    # Já dentro do carrinho, remova o monitor, atualize a página e confirme a remoção do item
+    Adição no carrinho de um celular, um monitor e um computador.
+    Já dentro do carrinho, remova o monitor, atualize a página e confirme a remoção do item
 # Construa o projeto em cima do site https://www.demoblaze.com . 
 # Após finaliza-lo, suba o projeto para o GitHub e crie um arquivo README.md com as instruções necessárias para que possamos executar o projeto. 
 # Sinta-se livre para criar cenários, validações e incluir qualquer outra tecnologia ou ferramenta que você entenda como relevante e queira demonstrar.
