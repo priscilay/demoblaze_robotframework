@@ -1,5 +1,5 @@
 echo "CRIANDO IMAGEM DOCKER"
-docker build -t blaze_teste .
+docker build -t demoblaze_tests .
 
 echo "EXECUTANDO DOCKER"
-docker run blaze_teste
+docker run demoblaze_tests
